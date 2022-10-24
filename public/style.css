@@ -1,0 +1,15 @@
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: thick solid black;
+    margin: auto;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+}
+p{
+    text-align: justify;
+}
